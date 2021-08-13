@@ -1,0 +1,16 @@
+{
+    "name": "oyfirstlxcs/package-test-laravel",
+    "authors": [
+        {
+            "name": "oyfirstlxcs",
+            "email": "email@email.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "oyfirstlxcs\\PackageTest\\": "src/"
+        }
+    },
+
+    "require": {}
+}
